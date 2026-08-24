@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/product_image_retrieval.egg-info/PKG-INFO
+src/product_image_retrieval.egg-info/SOURCES.txt
+src/product_image_retrieval.egg-info/dependency_links.txt
+src/product_image_retrieval.egg-info/requires.txt
+src/product_image_retrieval.egg-info/top_level.txt
+src/product_images/__init__.py
+src/product_images/downloader.py
+src/product_images/models.py
+src/product_images/sources/__init__.py
+src/product_images/sources/base.py
+src/product_images/sources/wikimedia.py
+tests/test_wikimedia.py
